@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on IOS Table view
+- 🔭 I’m currently working on IOS Table and Tabbar views
 - 🌱 I’m currently learning Swift and IOS Development
 - 🤔 I’m looking for help with Azure/IOS/Next.js 
 - 💬 Ask me about my day
