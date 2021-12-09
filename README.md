@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on IOS Table and Tabbar views
-- 🌱 I’m currently learning Swift and IOS Development
-- 🤔 I’m looking for help with Azure/IOS/Next.js 
-- 💬 Ask me about my day
-- 📫 How to reach me: @HappyCoder1
-- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on CICD, JAVA/Spring, React.js
+- 🌱 I’m currently learning Java, CICD, React.js, Docker
+- 🤔 I’m looking for help with Java/React/Building Full Stack Apps 
+- 💬 Ask me about my day, 76ers, RDR2, and what I am reading?
+- 📫 How to reach me: Twitter === @CloutEngineer_ 
+- 😄 Pronouns: He/They
 <!-- ⚡ Fun fact: ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
 
