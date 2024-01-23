@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CICD, JAVA/Spring, React.js
 - 🌱 I’m currently learning Java, CICD, React.js, Docker
 - 🤔 I’m looking for help with Java/React/Building Full Stack Apps 
-- 💬 Ask me about my day, 76ers, RDR2, and what I am reading?
+- 💬 Ask me about my day, 76ers, RDR2, or what I am reading?
 - 📫 How to reach me: Twitter === @CloutEngineer_ 
 - 😄 Pronouns: He/They
 <!-- ⚡ Fun fact: ... -->
